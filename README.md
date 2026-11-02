@@ -1,4 +1,4 @@
-# YBI-INTERNSHIP-PROJECT
+# YBI-FOUNDATION-INTERNSHIP-PROJECT
 # Student Performance Prediction
 
 ## About the Project
